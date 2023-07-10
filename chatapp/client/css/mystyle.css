@@ -1,0 +1,23 @@
+.background{
+    background-color: rgb(28, 198, 233);
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+.first{
+    width: 100%;
+    height: 80vh;
+    overflow: auto;
+}
+.left,.right{
+    width: 70%;
+}
+.second{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
